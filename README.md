@@ -6,7 +6,7 @@
 
 ## 阿里云短信验证
 
-<img src="http://f.hiphotos.baidu.com/baike/w%3D268/sign=725f5defa2ec08fa260014a161ef3d4d/6159252dd42a2834b1c7cf5b59b5c9ea15cebf79.jpg"/>
+
 ## 百度语音消息
 
 ## 微信二维码登录
